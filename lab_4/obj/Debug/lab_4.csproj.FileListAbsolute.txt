@@ -1,0 +1,11 @@
+D:\Makc\Desktop\Сокол\Коды\lab_4\obj\Debug\lab_4.csprojAssemblyReference.cache
+D:\Makc\Desktop\Сокол\Коды\lab_4\obj\Debug\lab_4.fTablet.resources
+D:\Makc\Desktop\Сокол\Коды\lab_4\obj\Debug\lab_4.fMain.resources
+D:\Makc\Desktop\Сокол\Коды\lab_4\obj\Debug\oop_lab_4.Properties.Resources.resources
+D:\Makc\Desktop\Сокол\Коды\lab_4\obj\Debug\lab_4.csproj.GenerateResource.cache
+D:\Makc\Desktop\Сокол\Коды\lab_4\obj\Debug\lab_4.csproj.CoreCompileInputs.cache
+D:\Makc\Desktop\Сокол\Коды\lab_4\bin\Debug\oop_lab_4.exe.config
+D:\Makc\Desktop\Сокол\Коды\lab_4\bin\Debug\oop_lab_4.exe
+D:\Makc\Desktop\Сокол\Коды\lab_4\bin\Debug\oop_lab_4.pdb
+D:\Makc\Desktop\Сокол\Коды\lab_4\obj\Debug\oop_lab_4.exe
+D:\Makc\Desktop\Сокол\Коды\lab_4\obj\Debug\oop_lab_4.pdb
