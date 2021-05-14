@@ -1,0 +1,10 @@
+D:\Makc\Desktop\Сокол\Коды\lab_7\bin\Debug\lab_7.exe.config
+D:\Makc\Desktop\Сокол\Коды\lab_7\bin\Debug\lab_7.exe
+D:\Makc\Desktop\Сокол\Коды\lab_7\bin\Debug\lab_7.pdb
+D:\Makc\Desktop\Сокол\Коды\lab_7\obj\Debug\lab_7.csprojAssemblyReference.cache
+D:\Makc\Desktop\Сокол\Коды\lab_7\obj\Debug\lab_7.fMain.resources
+D:\Makc\Desktop\Сокол\Коды\lab_7\obj\Debug\lab_7.Properties.Resources.resources
+D:\Makc\Desktop\Сокол\Коды\lab_7\obj\Debug\lab_7.csproj.GenerateResource.cache
+D:\Makc\Desktop\Сокол\Коды\lab_7\obj\Debug\lab_7.csproj.CoreCompileInputs.cache
+D:\Makc\Desktop\Сокол\Коды\lab_7\obj\Debug\lab_7.exe
+D:\Makc\Desktop\Сокол\Коды\lab_7\obj\Debug\lab_7.pdb
